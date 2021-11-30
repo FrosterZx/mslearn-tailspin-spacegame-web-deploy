@@ -15,4 +15,3 @@ namespace TailSpin.SpaceGame.Web
                 .UseStartup<Startup>();
     }
 }
-/** SALUT **/
